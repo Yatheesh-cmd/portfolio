@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: white;
+}
+.header{ background: linear-gradient(to right, rgb(155, 23, 221),rgb(233, 233, 224));
+         height:90px; position:relative;
+}
+.navs{position:absolute; top:30px; right:40px;  
+}
+a{text-decoration: none; font-size: 20px; font-weight: bolder; margin-right:93px; margin-top: 20px;
+}
